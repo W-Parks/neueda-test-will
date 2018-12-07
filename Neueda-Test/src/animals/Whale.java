@@ -5,6 +5,7 @@ public class Whale extends Animal{
 	private String mainOcean;
 	private int weight, maxSpeed, length;
 	
+	//Constructors
 	public Whale() {
 		super();
 	}
@@ -17,6 +18,7 @@ public class Whale extends Animal{
 		this.length = length;
 	}
 
+	//Mutators
 	public String getMainOcean() {
 		return mainOcean;
 	}

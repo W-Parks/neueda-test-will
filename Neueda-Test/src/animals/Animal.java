@@ -4,6 +4,7 @@ public class Animal {
 
 	private String name;
 
+	//Constructors
 	public Animal() {
 		super();
 	}
@@ -13,6 +14,7 @@ public class Animal {
 		this.name = name;
 	}
 
+	//Mutators
 	public String getName() {
 		return name;
 	}
