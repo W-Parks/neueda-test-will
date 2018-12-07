@@ -2,7 +2,7 @@ package animals;
 
 public class Animal {
 
-	private String name;
+	protected String name;
 
 	//Constructors
 	public Animal() {

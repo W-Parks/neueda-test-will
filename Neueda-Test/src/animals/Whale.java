@@ -51,4 +51,9 @@ public class Whale extends Animal{
 		this.length = length;
 	}
 	
+	//public String toString() {	//override default toString to match output needed
+		//return (this.name, this.mainOcean, weight, maxSpeed, length);
+		
+	//}
+	
 }
