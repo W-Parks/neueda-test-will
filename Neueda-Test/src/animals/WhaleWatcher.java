@@ -35,7 +35,7 @@ public class WhaleWatcher {
 		//If mainOcean matched Atlantic Print name of whale(s)
 		
 		//if (whales.mainOcean) {	
-			
+		//
 		//}
 	}
 	
